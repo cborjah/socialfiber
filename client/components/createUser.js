@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 
 class CreateUser extends Component {
-  contructor(props) {
+  constructor(props) {
     super(props);
 
     this.state = {
